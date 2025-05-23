@@ -41,6 +41,7 @@ Features:
 Program and event listings (Workshops, Seminars, Fundraisers)
 User registration and authentication
 Dynamic frontend design with responsive components
+
 🔗 https://github.com/Philani50/Project3-Assignment-Prodemy
 
 ---
