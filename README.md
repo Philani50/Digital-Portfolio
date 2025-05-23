@@ -88,5 +88,5 @@ I'm actively seeking internships, **project collaborations, and **freelance oppo
 - Data-Driven Systems
 
 📫 Contact Me:  
-- Email: philanishange50@gmail.com
+- Email: [222790210@mycput.ac.za)
 - LinkedIn: [www.linkedin.com/in/philani-shange-10bb87246)  
