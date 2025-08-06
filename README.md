@@ -1,6 +1,5 @@
 Digital-Portfolio
 <!-- Profile README.md --> <h1 align="center">Hi, I'm Philani Shange 👋</h1> <p align="center">Aspiring Software & IoT Developer | ICT Student | Based in Cape Town, South Africa</p>
-About Me
 I'm Philani Shange, an enthusiastic and dedicated student currently pursuing a Diploma in Information and Communication Technology at Cape Peninsula University of Technology. I specialize in application development with a strong passion for building impactful and innovative software solutions.
 
 My interests span across Internet of Things (IoT), web development, and data-driven applications—fields where I enjoy blending creativity with logic. I thrive in collaborative environments where I can tackle complex problems and turn them into practical, user-focused solutions.
@@ -79,8 +78,12 @@ RESTful API integration for front-end communication
 
 🎓 Software Engineering & Project Management
 
-📈 GitHub Stats & Activity
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=philani50&show_icons=true&theme=default" width="47%"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=philani50&layout=compact" width="47%"> </p>
+## 📈 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Philani50&show_icons=true&theme=radical" width="47%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Philani50&layout=compact&langs_count=6&theme=radical" width="47%" alt="Top Languages"/>
+</p>
 🤝 Let's Collaborate
 I'm actively seeking internships, project collaborations, and freelance opportunities in:
 
