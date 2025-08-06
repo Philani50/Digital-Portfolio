@@ -82,8 +82,9 @@ RESTful API integration for front-end communication
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Philani50&show_icons=true&theme=radical" width="47%" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Philani50&layout=compact&langs_count=6&theme=radical" width="47%" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Philani50&layout=compact&langs_count=6&hide=shell,makefile,markdown" width="47%" alt="Top Languages"/>
 </p>
+
 🤝 Let's Collaborate
 I'm actively seeking internships, project collaborations, and freelance opportunities in:
 
