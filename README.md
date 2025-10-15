@@ -1,103 +1,71 @@
-Digital-Portfolio
-<!-- Profile README.md --> <h1 align="center">Hi, I'm Philani Shange 👋</h1> <p align="center">Aspiring Software & IoT Developer | ICT Student | Based in Cape Town, South Africa</p>
-I'm Philani Shange, an enthusiastic and dedicated student currently pursuing a Diploma in Information and Communication Technology at Cape Peninsula University of Technology. I specialize in application development with a strong passion for building impactful and innovative software solutions.
+# Philani Shange — Digital Portfolio
 
-My interests span across Internet of Things (IoT), web development, and data-driven applications—fields where I enjoy blending creativity with logic. I thrive in collaborative environments where I can tackle complex problems and turn them into practical, user-focused solutions.
+Hi, I'm Philani Shange 👋  
+Aspiring Software & IoT Developer | ICT Student | Cape Town, South Africa
 
-From developing sleek user interfaces to coding embedded systems and smart technologies, I continually learn and push myself to create technology that makes life smarter, faster, and easier. My goal is not only to grow as a developer but also to contribute meaningfully to communities through technology.
+Contact
+- Email: 222790210@mycput.ac.za
+- LinkedIn: https://www.linkedin.com/in/philani-shange-10bb87246
+- GitHub: https://github.com/Philani50
+- Reference: Corrie Engelbrecht (Line Manager) — +27 21 941 3375
 
-💼 Work Experience
-🚀 DevOps Intern – Capitec Bank (Head Office, Cape Town)
-Duration: July 2025 – Present
-As part of the DevOps team at Capitec, I contribute to services focused on money laundering detection and account blocking automation. This includes building and supporting secure systems that help the bank comply with financial regulations, protect customer accounts, and streamline backend processes.
+Overview
+---
+This portfolio contains evidence of my work readiness training and practical experience in software development, IoT, and DevOps. Included are project artifacts, interview preparation materials, mock interview recordings and transcripts, professional networking records, and workplace etiquette documentation.
 
-Key Focus Areas:
+Artifacts & Links
+---
+1. Projects
+   - Prodemy – Online Learning Platform  
+     - Description: Educational web app for community-focused organizations.  
+     - Tech: Vue.js, HTML/CSS, JavaScript, Firebase  
+     - Link: (project folder / demo)  
+   - SunRental – Van Rental Booking System  
+     - Description: Web-based van rental system built with DDD principles.  
+     - Tech: Java, Spring Boot, JPA, MySQL, HTML/CSS  
+     - Link: (project folder / demo)
 
-Supporting anti-money laundering (AML) systems
+2. Interview Skills
+   - InterviewAnswers.pdf — STAR-format answers and technical explanations.
+   - Resume.pdf and CoverLetter_Internship.pdf
 
-Working with account blocking and monitoring tools
+3. Mock Interview
+   - mock_interview.mp4 (recording)
+   - mock_interview_transcript.txt (transcript and feedback)
 
-Exposure to enterprise DevOps pipelines and tools
+4. Professional Networking
+   - LinkedIn profile: https://www.linkedin.com/in/philani-shange-10bb87246
+   - Networking actions log: networking_log.pdf
 
-Collaborative work in a high-security, high-availability environment
+5. Workplace Etiquette & Security
+   - workplace_conduct.pdf (examples and reflections)
+   - compliance_notes.pdf (how I handled secure data and deployment procedures during Capitec internship)
 
-Reference:
-Corrie Engelbrecht (Line Manager)
-📞 +27 21 941 3375
+6. Certifications & Coursework
+   - AWS Cloud Practitioner — In Progress
+   - Responsive Web Design — freeCodeCamp
+   - Advanced Programming in Java — CPUT
+   - Internet of Things (IoT) — Capstone Project
 
-Technical Skills
-Languages
-Java | Python | SQL | JavaScript | HTML | CSS
+Assessment reflections (rubric-aligned)
+---
+For each rubric criterion (Business Communication, Interview Skills, Mock Interview, Professional Networking, Workplace Etiquette) this repository includes:
+- Evidence files (10% each)
+- STAR reflection documents (10% each)
+Please open the folder `evidence_and_reflections` for the matched STAR reflections and supporting artifacts.
 
-Frameworks & Tools
-Spring Boot | Vue.js | Bootstrap | Figma | JPA/Hibernate | JDBC
+Summary of key strengths
+---
+- Practical experience in enterprise DevOps and AML-related services at Capitec.
+- Full-stack project experience (Vue.js frontend, Java/Spring Boot backend).
+- Familiarity with databases (MySQL, PostgreSQL) and common developer tools (Git, Maven, VS Code).
+- Well-practiced interview and presentation skills with recorded mock-interview artifacts.
 
-Databases
-MySQL | PostgreSQL | Apache Derby
+How to review this portfolio
+---
+1. Browse the project folders to view demo code, screenshots, and setup instructions.
+2. Open the `evidence_and_reflections` folder to read STAR reflections linked to each rubric criterion.
+3. Play the mock interview recording and read the transcript to evaluate interview performance.
+4. Use the contact details above for references.
 
-Other Tools
-Git & GitHub | NetBeans | VS Code | Maven | Postman
-
-Projects Showcase
-📚 Prodemy – Online Learning Platform
-A modern educational web application designed to enhance online learning and program delivery for community-focused organizations.
-Technologies: Vue.js, HTML/CSS, JavaScript, Firebase
-Features:
-
-Program and event listings (Workshops, Seminars, Fundraisers)
-
-User registration and authentication
-
-Dynamic frontend design with responsive components
-
-🔗 View Project
-
-🚐 SunRental – Van Rental Booking System
-A web-based system for browsing, booking, and managing van rentals, designed using domain-driven design (DDD) principles.
-Technologies: Java, Spring Boot, JPA, MySQL, HTML/CSS
-Features:
-
-Vehicle listings and availability management
-
-Booking system with order tracking
-
-Role-based dashboards for admin and customers
-
-RESTful API integration for front-end communication
-
-🔗 View Project
-
-🧾 Certifications & Coursework
-📘 AWS Cloud Practitioner (In Progress)
-
-🕸 Responsive Web Design – freeCodeCamp
-
-📅 Advanced Programming in Java – CPUT
-
-🧠 Internet of Things (IoT) – Capstone Project
-
-🎓 Software Engineering & Project Management
-
-## 📈 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Philani50&show_icons=true&theme=radical" width="47%" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Philani50&layout=compact&langs_count=6&hide=shell,makefile,markdown" width="47%" alt="Top Languages"/>
-</p>
-
-🤝 Let's Collaborate
-I'm actively seeking internships, project collaborations, and freelance opportunities in:
-
-Software Development
-
-IoT Solutions
-
-Full-Stack Web Applications
-
-Data-Driven Systems
-
-📫 Contact Me:
-
-Email: 222790210@mycput.ac.za
-
-LinkedIn: www.linkedin.com/in/philani-shange-10bb87246
+Thank you for reviewing my digital portfolio.
