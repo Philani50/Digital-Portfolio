@@ -19,31 +19,28 @@ Artifacts & Links
    - Prodemy – Online Learning Platform  
      - Description: Educational web app for community-focused organizations.  
      - Tech: Vue.js, HTML/CSS, JavaScript, Firebase  
-     - Link: (project folder / demo)  
+     - Link:
+     - https://github.com/prodemyend/prodemyEnd
+     - https://github.com/Philani50/Project3-Assignment-Prodemy
+       
    - SunRental – Van Rental Booking System  
      - Description: Web-based van rental system built with DDD principles.  
      - Tech: Java, Spring Boot, JPA, MySQL, HTML/CSS  
-     - Link: (project folder / demo)
+     - Link:
+     - https://github.com/Philani50/sunRentalFE
+     - https://github.com/Philani50/SunRental
 
 2. Interview Skills
-   - InterviewAnswers.pdf — STAR-format answers and technical explanations.
    - Resume.pdf and CoverLetter_Internship.pdf
 
 3. Mock Interview
    - mock_interview.mp4 (recording)
-   - mock_interview_transcript.txt (transcript and feedback)
 
 4. Professional Networking
    - LinkedIn profile: https://www.linkedin.com/in/philani-shange-10bb87246
-   - Networking actions log: networking_log.pdf
-
-5. Workplace Etiquette & Security
-   - workplace_conduct.pdf (examples and reflections)
-   - compliance_notes.pdf (how I handled secure data and deployment procedures during Capitec internship)
 
 6. Certifications & Coursework
    - AWS Cloud Practitioner — In Progress
-   - Responsive Web Design — freeCodeCamp
    - Advanced Programming in Java — CPUT
    - Internet of Things (IoT) — Capstone Project
 
@@ -52,7 +49,7 @@ Assessment reflections
 For each rubric criterion (Business Communication, Interview Skills, Mock Interview, Professional Networking, Workplace Etiquette) this repository includes:
 - Evidence files (10% each)
 - STAR reflection documents (10% each)
-Please open the folder `evidence_and_reflections` for the matched STAR reflections and supporting artifacts.
+Please open the folder for the matched STAR reflections and supporting artifacts.
 
 Summary of key strengths
 ---
@@ -64,8 +61,7 @@ Summary of key strengths
 How to review this portfolio
 ---
 1. Browse the project folders to view demo code, screenshots, and setup instructions.
-2. Open the `evidence_and_reflections` folder to read STAR reflections linked to each rubric criterion.
-3. Play the mock interview recording and read the transcript to evaluate interview performance.
-4. Use the contact details above for references.
+2. Play the mock interview recording and read the transcript to evaluate interview performance.
+3. Use the contact details above for references.
 
 Thank you for reviewing my digital portfolio.
