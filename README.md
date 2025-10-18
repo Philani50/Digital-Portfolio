@@ -47,7 +47,7 @@ Artifacts & Links
    - Advanced Programming in Java — CPUT
    - Internet of Things (IoT) — Capstone Project
 
-Assessment reflections (rubric-aligned)
+Assessment reflections 
 ---
 For each rubric criterion (Business Communication, Interview Skills, Mock Interview, Professional Networking, Workplace Etiquette) this repository includes:
 - Evidence files (10% each)
