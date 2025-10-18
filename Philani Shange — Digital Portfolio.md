@@ -47,8 +47,8 @@ Artifacts & Links
 Assessment reflections 
 ---
 For each rubric criterion (Business Communication, Interview Skills, Mock Interview, Professional Networking, Workplace Etiquette) this repository includes:
-- Evidence files (10% each)
-- STAR reflection documents (10% each)
+- Evidence files 
+- STAR reflection documents 
 Please open the folder for the matched STAR reflections and supporting artifacts.
 
 Summary of key strengths
